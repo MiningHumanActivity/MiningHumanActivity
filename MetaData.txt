@@ -1,0 +1,8 @@
+1 --> Washing Machine
+2 --> Nespresso
+3 --> TV
+4 --> Laptop
+5 --> Home Theater
+6 --> Kettle
+7 --> Microwave
+8 --> Oven

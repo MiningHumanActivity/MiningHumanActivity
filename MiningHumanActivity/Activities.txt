@@ -1,0 +1,8 @@
+1 --> Relaxing
+2 --> Preparing
+3 --> Relaxing
+4 --> Relaxing
+5 --> Relaxing
+6 --> Preparing
+7 --> Preparing
+8 --> Preparing
